@@ -1,5 +1,3 @@
-# ipython_notebooks
-
 ipython notebooks used in CRRP and SMHASH
 ==========================================
 
