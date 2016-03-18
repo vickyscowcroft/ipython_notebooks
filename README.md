@@ -24,5 +24,10 @@ Current notebooks
   *  A simple example of convolving gaussian distributions to represent the RRL PL relation.
 *  calibrator_pl_fitting.ipynb
   * Fitting the mid-IR parallax stars using the slopes from Reticulum and M4 in various ways.  
+* galactic_cepheid_compilation.ipynb
+ * Merging Cepheid data from different sources into one coherent table.
+ * Lots of examples here of how to tidy data and how to deal with missing data using pandas
+ * Example files are cepheids_ir_metallicities.txt, mw_ceps_optical_no_ri, LMC_true_data.dat
+
 
 
