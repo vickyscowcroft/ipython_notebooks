@@ -1,0 +1,14 @@
+PL relation parameters for SMC Cepheids
+Standard relations are from Fouque+ 2007, Persson LMC relations, Monson 2012 MW
+Band, zero--point, zp uncertainty, dispersion, slope, slope uncertainty
+U = 15.800 0.390 0.685 -1.784 0.629 15
+Band, zero--point, zp uncertainty, dispersion, mu, emu
+B = 15.722 0.048 0.384 19.24 0.05 65
+V = 15.040 0.034 0.316 19.20 0.03 89
+R = 14.545 0.038 0.248 19.07 0.04 44
+I = 14.238 0.026 0.245 19.09 0.03 89
+J = 13.716 0.029 0.252 19.01 0.03 79
+H = 13.362 0.027 0.233 19.00 0.03 79
+K = 13.282 0.026 0.225 18.99 0.03 79
+[3.6] = 13.186 0.017 0.161 18.99 0.03 90
+[4.5] = 13.150 0.018 0.164 18.92 0.03 90
