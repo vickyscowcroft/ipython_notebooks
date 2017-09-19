@@ -56,6 +56,11 @@ Current notebooks
 * galactic_multiwavelength_cepheids.ipynb
  * Does gloess fits of Galactic Cepheids using updated database files
  * Smarter smoothing params partly implemented
+ 
+ * remake_beaton_h0
+  * For Rachael
+  * Fancy version of the plot from Beaton+ 2016 paper 
+  * Easy to add new H0 values to the plot.
 
 
 
